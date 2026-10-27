@@ -1,0 +1,17 @@
+C:\Users\vlase\OneDrive\Desktop\Skibidi Lab1 Prime SSS 1000-7\obj\Debug\net10.0\Skibidi Lab1 Prime SSS 1000-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlase\OneDrive\Desktop\Skibidi Lab1 Prime SSS 1000-7\obj\Debug\net10.0\Skibidi Lab1 Prime SSS 1000-7.AssemblyInfoInputs.cache
+C:\Users\vlase\OneDrive\Desktop\Skibidi Lab1 Prime SSS 1000-7\obj\Debug\net10.0\Skibidi Lab1 Prime SSS 1000-7.AssemblyInfo.cs
+C:\Users\vlase\OneDrive\Desktop\Skibidi Lab1 Prime SSS 1000-7\obj\Debug\net10.0\Skibidi Lab1 Prime SSS 1000-7.csproj.CoreCompileInputs.cache
+C:\Users\vlase\OneDrive\Desktop\Skibidi Lab1 Prime SSS 1000-7\bin\Debug\net10.0\Skibidi Lab1 Prime SSS 1000-7.exe
+C:\Users\vlase\OneDrive\Desktop\Skibidi Lab1 Prime SSS 1000-7\bin\Debug\net10.0\Skibidi Lab1 Prime SSS 1000-7.deps.json
+C:\Users\vlase\OneDrive\Desktop\Skibidi Lab1 Prime SSS 1000-7\bin\Debug\net10.0\Skibidi Lab1 Prime SSS 1000-7.runtimeconfig.json
+C:\Users\vlase\OneDrive\Desktop\Skibidi Lab1 Prime SSS 1000-7\bin\Debug\net10.0\Skibidi Lab1 Prime SSS 1000-7.runtimeconfig.dev.json
+C:\Users\vlase\OneDrive\Desktop\Skibidi Lab1 Prime SSS 1000-7\bin\Debug\net10.0\Skibidi Lab1 Prime SSS 1000-7.dll
+C:\Users\vlase\OneDrive\Desktop\Skibidi Lab1 Prime SSS 1000-7\bin\Debug\net10.0\Skibidi Lab1 Prime SSS 1000-7.pdb
+C:\Users\vlase\OneDrive\Desktop\Skibidi Lab1 Prime SSS 1000-7\obj\Debug\net10.0\Skibidi Lab1 Prime SSS 1000-7.dll
+C:\Users\vlase\OneDrive\Desktop\Skibidi Lab1 Prime SSS 1000-7\obj\Debug\net10.0\refint\Skibidi Lab1 Prime SSS 1000-7.dll
+C:\Users\vlase\OneDrive\Desktop\Skibidi Lab1 Prime SSS 1000-7\obj\Debug\net10.0\Skibidi Lab1 Prime SSS 1000-7.pdb
+C:\Users\vlase\OneDrive\Desktop\Skibidi Lab1 Prime SSS 1000-7\obj\Debug\net10.0\Skibidi Lab1 Prime SSS 1000-7.genruntimeconfig.cache
+C:\Users\vlase\OneDrive\Desktop\Skibidi Lab1 Prime SSS 1000-7\obj\Debug\net10.0\ref\Skibidi Lab1 Prime SSS 1000-7.dll
+C:\Users\vlase\OneDrive\Desktop\Skibidi Lab1 Prime SSS 1000-7\obj\Debug\net10.0\Skibidi .4BFE3EFC.Up2Date
+C:\Users\vlase\OneDrive\Desktop\Skibidi Lab1 Prime SSS 1000-7\obj\Debug\net10.0\Skibidi Lab1 Prime SSS 1000-7.sourcelink.json
